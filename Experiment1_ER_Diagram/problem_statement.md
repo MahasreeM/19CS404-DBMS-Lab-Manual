@@ -121,6 +121,7 @@ Events can have many speakers and many members.
 Each event is booked in one room; rooms can host many events.
 
 Members can attend multiple events.
+
 ---
 
 # Scenario C: Restaurant Table Reservation & Ordering
